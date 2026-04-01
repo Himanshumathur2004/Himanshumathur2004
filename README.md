@@ -10,14 +10,15 @@
 
 ## 🎓 About Me
 
-**Data Science Enthusiast** | **Full-Stack Web Developer** | **AI/ML Researcher**
+**Data Science Enthusiast** | **Full-Stack Web Developer** | **AI/ML Researcher** | **MegaLLM Systems Builder**
 
-I'm a final-year B.Tech student at **Rajiv Gandhi Institute of Petroleum Technology** (GGPA: 8.33) passionate about building intelligent systems and scalable web applications. With hands-on experience in machine learning, data science, and full-stack development, I love solving real-world problems through technology.
+I'm a final-year B.Tech student at **Rajiv Gandhi Institute of Petroleum Technology** (CGPA: 8.33) currently working with the **MegaLLM team** building intelligent systems and scalable AI architectures. Passionate about machine learning, data science, and full-stack development, I love solving real-world problems through cutting-edge technology and research.
 
 ---
 
 ## 🚀 Recent Highlights
 
+- 🤖 **Currently Building**: Advanced AI systems with **MegaLLM Team** - developing intelligent pipelines and multi-agent architectures
 - 🔬 **Published Researcher**: "A DEC Method for Location-Specific Driving Safety Profiling using Trajectory Data" - Accepted at Springer Nature Journals (2025)
 - 🏆 **HPCL Sponsorship**: Awarded prestigious sponsorship to attend India Energy Week 2026
 - 📊 **Data Science Intern** @ IIT Patna: Built driver behavior models using ML clustering algorithms
@@ -55,6 +56,35 @@ I'm a final-year B.Tech student at **Rajiv Gandhi Institute of Petroleum Technol
 
 ---
 
+## � Research & Publications
+
+### A DEC Method for Location-Specific Driving Safety Profiling using Trajectory Data
+**Published**: Springer Nature Journals, 2025
+
+**Role**: Second Author (Kushwaha, A. K., Kumar, H., & Kumar, B. A.)
+- Implemented algorithmic refinements and optimizations
+- Re-ran experiments with improved parameters
+- Addressed reviewer comments to enhance manuscript quality
+- Focused on deep clustering algorithms for driver behavior analysis
+
+📄 [Read Publication](#)
+
+---
+
+## 💼 Work Experience
+
+### Data Science Intern
+**Indian Institute of Technology Patna** | May - Jul 2025
+
+- Extracted and processed sensor data (LiDAR, accelerometers) from **2,200+ drivers**
+- Built comprehensive driver behavior model with speed, acceleration, and direction features
+- Trained and optimized **K-Means, Mean Shift, DBSCAN, and DEC** clustering models
+- Applied **GridSearchCV** for hyperparameter tuning
+- Used clustering metrics (Silhouette, Elbow, CHI, DBI) for model evaluation
+- Successfully predicted driver traits: **Aggressive, Speedy, and Calm**
+
+---
+
 ## 📂 Featured Projects
 
 ### 🛰️ AI-Driven Satellite-Based Emergency Landing Site Prediction
@@ -84,35 +114,6 @@ A high-performance messaging platform enabling seamless bi-directional communica
 - **Impact**: Reduced response time by **25%**, enhanced user engagement by **25%**
 
 🔗 [View Project](#) | 📝 [Code on GitHub](#)
-
----
-
-## 🔬 Research & Publications
-
-### A DEC Method for Location-Specific Driving Safety Profiling using Trajectory Data
-**Published**: Springer Nature Journals, 2025
-
-**Role**: Second Author (Kushwaha, A. K., Kumar, H., & Kumar, B. A.)
-- Implemented algorithmic refinements and optimizations
-- Re-ran experiments with improved parameters
-- Addressed reviewer comments to enhance manuscript quality
-- Focused on deep clustering algorithms for driver behavior analysis
-
-📄 [Read Publication](#)
-
----
-
-## 💼 Work Experience
-
-### Data Science Intern
-**Indian Institute of Technology Patna** | May - Jul 2025
-
-- Extracted and processed sensor data (LiDAR, accelerometers) from **2,200+ drivers**
-- Built comprehensive driver behavior model with speed, acceleration, and direction features
-- Trained and optimized **K-Means, Mean Shift, DBSCAN, and DEC** clustering models
-- Applied **GridSearchCV** for hyperparameter tuning
-- Used clustering metrics (Silhouette, Elbow, CHI, DBI) for model evaluation
-- Successfully predicted driver traits: **Aggressive, Speedy, and Calm**
 
 ---
 
@@ -149,15 +150,6 @@ A high-performance messaging platform enabling seamless bi-directional communica
 - Mentored 80+ students in DSA fundamentals and advanced concepts
 - Conducted doubt sessions and coding workshops
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshumathur2004&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshumathur2004&layout=compact&theme=dark)
-
----
 
 ## 🤝 Let's Connect!
 
@@ -173,10 +165,11 @@ I'm always open to collaborating on interesting projects, discussing ML/AI resea
 
 ## 🎯 Currently Working On
 
-- 🔍 Exploring advanced clustering algorithms and their applications
-- 🌐 Building scalable web applications with modern tech stacks
-- 📚 Contributing to open-source ML/AI projects
-- 🚀 Diving deeper into production-grade system design
+- 🤖 **MegaLLM Systems**: Building advanced AI pipelines and multi-agent architectures for intelligent automation
+- 🔍 Exploring advanced clustering algorithms and their applications in driver behavior analysis
+- 🌐 Developing scalable backend systems for real-time data processing
+- 📚 Contributing to AI/ML research and open-source projects
+- 🚀 Production-grade system design and optimization
 
 ---
 
