@@ -12,7 +12,7 @@
 
 **Data Science Enthusiast** | **Full-Stack Web Developer** | **AI/ML Researcher** | **MegaLLM Systems Builder**
 
-I'm a final-year B.Tech student at **Rajiv Gandhi Institute of Petroleum Technology** (CGPA: 8.33) currently working with the **MegaLLM team** building intelligent systems and scalable AI architectures. Passionate about machine learning, data science, and full-stack development, I love solving real-world problems through cutting-edge technology and research.
+I'm a final-year B.Tech student at **Rajiv Gandhi Institute of Petroleum Technology** (CGPA: 8.36) currently working with the **MegaLLM team** building intelligent systems and scalable AI architectures. Passionate about machine learning, data science, and full-stack development, I love solving real-world problems through cutting-edge technology and research.
 
 ---
 
